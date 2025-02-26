@@ -1,1 +1,8 @@
-echo "Love is a mystry box"
+love
+son
+hi
+
+bro what is this?
+
+
+last one bro????
